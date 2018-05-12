@@ -7,10 +7,15 @@ body {
 
 p,
 ul>ul,
-h1 {
+h1,
+img {
     margin: 10px;
 }
 
 h1 {
     font-size: 5em;
+}
+
+img {
+    height: 7.5em;
 }
